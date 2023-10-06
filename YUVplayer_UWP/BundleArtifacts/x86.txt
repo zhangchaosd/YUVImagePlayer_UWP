@@ -1,0 +1,2 @@
+MainPackage=C:\Users\97090\source\repos\YUVplayer_UWP\YUVplayer_UWP\bin\x86\Release\YUVplayer_UWP_1.0.21.0_x86.appx
+SymbolPackage=C:\Users\97090\source\repos\YUVplayer_UWP\YUVplayer_UWP\obj\x86\Release\Symbols\YUVplayer_UWP_1.0.21.0_x86.appxsym
